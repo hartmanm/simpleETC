@@ -4,7 +4,7 @@ simpleETC the inconspicuous ETC/USD ticker.
 
 Provides the exchange rate without distracting you.
 
-![inthewildsoftheOS](https://github.com/hartmanm/simpleETC/blob/main/simpleETC.JPG)
+![inthewildsoftheOS](https://github.com/hartmanm/simpleETC/blob/main/simple-ETCv2.jpg)
 
 ## simpleETC was developed using:
 
