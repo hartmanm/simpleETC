@@ -1,12 +1,12 @@
-##simpleETC
+# simpleETC
 
 simpleETC the inconspicuous ETC/BTC ticker.  
 
 Provides the exchange rate without distracting you.
 
-![inthewildsoftheOS](https://github.com/hartmanm/simpleETC/blob/master/simpleETC.JPG)
+![inthewildsoftheOS](https://github.com/hartmanm/simpleETC/blob/main/simpleETC.JPG)
 
-##simpleETC was developed using:
+## simpleETC was developed using:
 
      Electron
 
@@ -14,17 +14,17 @@ Provides the exchange rate without distracting you.
 
      HTML5
 
-##Platforms
+## Platforms
 
      This version is for Windows
 
-##How To Use
+## How To Use
 
      Clone or Download the repository
 
           run simpleETC
 
-##Settings
+## Settings
 
      to move:  hold left click and drag
 
