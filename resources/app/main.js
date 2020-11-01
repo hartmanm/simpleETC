@@ -18,7 +18,7 @@ app.on('ready', function()
 {
     mainWindow = new BrowserWindow(
     {
-        width: 178,
+        width: 150,
         height: 47,
         icon: __dirname + '/icon.png',
         frame: false,
