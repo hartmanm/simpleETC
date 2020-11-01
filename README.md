@@ -1,6 +1,6 @@
 # simpleETC
 
-simpleETC the inconspicuous ETC/BTC ticker.  
+simpleETC the inconspicuous ETC/USD ticker.  
 
 Provides the exchange rate without distracting you.
 
