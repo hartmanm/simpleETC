@@ -1,0 +1,12 @@
+{
+  "name": "simpleETC",
+  "version": "1.0.0",
+  "description": "simple ETC/BTC ticker",
+  "author": "Michael Hartman",
+  "license": "MIT",
+  "main": "main.js",
+  "scripts":
+  {
+      "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
